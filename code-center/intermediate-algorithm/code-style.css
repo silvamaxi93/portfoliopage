@@ -121,4 +121,8 @@ main i {
     body {
         overflow-x: none;
     }
+
+    #back-element {
+        width: 50%;
+    }
 }
