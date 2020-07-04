@@ -34,3 +34,8 @@ code {
 section {
     line-height: normal;
 }
+
+textarea {
+    text-align: center;
+    margin: auto;
+}
