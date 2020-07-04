@@ -124,6 +124,8 @@ main i {
 
     #back-element {
         width: 50%;
+        margin-top: -20%;
+        position: absolute;
     }
 
     h1 {
