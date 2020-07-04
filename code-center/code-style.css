@@ -13,13 +13,16 @@ h1 {
     font-family: 'Noto Sans JP', sans-serif;
 }
 
-i {
-    font-size: 30px;
-    text-align: center;
-    color: red;
+h3 {
+    margin-left: 15%;
+}
+
+p {
+    margin-top: 5%;
 }
 
 main {
+    margin-top: 5%;
     margin-left: 15%;
     margin-right: 10%;
 }
