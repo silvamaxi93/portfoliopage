@@ -30,6 +30,8 @@ section {
 }
 
 textarea {
-    text-align: center;
+    text-align: left;
     margin: auto;
+    background-color: black;
+    color: green;
 }
