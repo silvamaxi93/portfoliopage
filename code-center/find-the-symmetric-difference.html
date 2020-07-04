@@ -10,7 +10,7 @@
     <body>
         <header>
             <h1>Algorithms: Find the Symmetric Difference</h1>
-            <a href="https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/find-the-symmetric-difference" target="_blank">Link to FreeCodeCamp's exercise</a>
+            <a href="https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/find-the-symmetric-difference" target="_blank"><p>Link to FreeCodeCamp's exercise</p></a>
         </header>
         <main>
             <article>
@@ -27,30 +27,31 @@
                     <p>The returned array must contain only unique values (no duplicates).</p>
                 </section>
             </article>
-            <textarea name="problem" rows="70" cols="70" readonly>
-                function sym(...args) {
-                    function symDiff (arr1, arr2) { //Callback for reduce function
-                      var uniqueValues=[]; //here we save the answer
-                  
-                      for(var i = 0; i < arr1.length; i++) {
-                        if(arr2.indexOf(arr1[i]) == -1 && uniqueValues.indexOf(arr1[i]) == -1) {
-                          uniqueValues.push(arr1[i]);
-                        }
-                      }
-                  
-                      for(var i = 0; i < arr2.length; i++) {
-                        if(arr1.indexOf(arr2[i]) == -1 && uniqueValues.indexOf(arr2[i]) == -1) {
-                          uniqueValues.push(arr2[i]);
-                        }
-                      }
-                      return uniqueValues;
-                    }
-                  return args.reduce(symDiff)
-                  
-                  }
-                  
-                  sym([1, 2, 3], [5, 2, 1, 4]);
+            <div id="code">
+                <textarea name="problem" rows="50" cols="110" readonly>
+function sym(...args) {
+    function symDiff (arr1, arr2) { //Callback for reduce function
+        var uniqueValues=[]; //here we save the answer
+                
+        for(var i = 0; i < arr1.length; i++) {
+            if(arr2.indexOf(arr1[i]) == -1 && uniqueValues.indexOf(arr1[i]) == -1) {
+                uniqueValues.push(arr1[i]);
+            }
+        }
+
+        for(var i = 0; i < arr2.length; i++) {
+            if(arr1.indexOf(arr2[i]) == -1 && uniqueValues.indexOf(arr2[i]) == -1) {
+                uniqueValues.push(arr2[i]);
+            }
+        }
+        return uniqueValues;
+    }
+    return args.reduce(symDiff)       
+}
+                    
+sym([1, 2, 3], [5, 2, 1, 4]);
                 </textarea>
+            </div>
         </main>
     </body>
 </html>
