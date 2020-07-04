@@ -114,6 +114,10 @@ main i {
         background-color: indianred;
     }
 
+    footer a {
+        margin-left: 1%;
+    }
+
     body {
         overflow-x: none;
     }
