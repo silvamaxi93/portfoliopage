@@ -1,0 +1,84 @@
+body {
+    background-color: #f4f4f4;
+    height: 100%;
+}
+
+main {
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+}
+header a p {
+    text-align: center;
+}
+
+a:hover {
+    color: rgb(7, 155, 214);
+}
+
+h3 {
+    margin-left: 4%;
+}
+
+#code {
+    text-align: center;
+}
+
+code {
+    background-color: black;
+    color: green;
+}
+
+section {
+    line-height: normal;
+}
+
+textarea {
+    background-color: black;
+    color: green;
+    font-weight: bold;
+}
+
+main article section {
+    margin-left: 10%;
+}
+
+footer {
+    margin-top: 2em;
+    display: flex;
+    height: 50px;
+    color: black;
+    padding: 0;
+    width: 100%;
+    justify-content: space-around;
+    border: 1px solid black;
+    align-items: center;
+}
+
+footer i {
+    color: #393e46;
+    font-size: 35px;
+}
+
+footer i:hover {
+    color: #127681;
+    cursor: pointer;
+}
+
+.footer-img {
+    height: 35px;
+    width: 35px;
+}
+
+main i {
+    margin-left: 4%;
+    font-size: 40px;
+}
