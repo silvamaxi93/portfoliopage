@@ -104,3 +104,9 @@ main i {
     margin-left: 4%;
     font-size: 40px;
 }
+
+@media only screen and (max-width: 815px) {
+    footer {
+        flex-wrap: wrap;
+    }
+}
