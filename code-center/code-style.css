@@ -1,0 +1,9 @@
+body {
+    background-color: #e1ffc2;
+}
+
+header {
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
