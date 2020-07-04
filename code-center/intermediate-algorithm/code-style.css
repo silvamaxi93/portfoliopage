@@ -112,4 +112,8 @@ main i {
         border: none;
         height: 100px;
     }
+
+    body {
+        overflow-x: none;
+    }
 }
