@@ -16,7 +16,7 @@ header a:hover {
     color: red;
 }
 h3 {
-    margin-left: 10%;
+    margin-left: 4%;
 }
 
 code {
@@ -33,4 +33,7 @@ textarea {
     margin: auto;
     background-color: black;
     color: green;
+}
+main section p {
+    margin-left: 10%;
 }
