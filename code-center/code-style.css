@@ -6,7 +6,6 @@ header {
     margin: auto;
     display: flex;
     justify-content: space-around;
-    flex-direction: column;
 }
 
 h1 {
