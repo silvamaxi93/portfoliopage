@@ -5,7 +5,9 @@ body {
 
 #back-element {
     position: absolute;
-
+    display: flex;
+    flex-direction: column;
+    width: 15%;
 }
 
 main {
