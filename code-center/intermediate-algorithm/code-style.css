@@ -8,6 +8,8 @@ body {
     display: flex;
     flex-direction: column;
     width: 15%;
+    margin-top: 0;
+    margin-left: 0;
 }
 
 main {
@@ -22,12 +24,10 @@ h1 {
     text-decoration: none;
     color: black;
     font-size: 1.5em;
-}
-header a p {
     text-align: center;
 }
 
-a:hover {
+.header-link:hover {
     color: rgb(7, 155, 214);
 }
 
