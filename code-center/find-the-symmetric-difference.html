@@ -26,6 +26,30 @@
                     <p>Create a function that takes two or more arrays and returns an array of their symmetric difference.</p>
                     <p>The returned array must contain only unique values (no duplicates).</p>
                 </section>
+                <code>
+                    function sym(...args) {
+                        function symDiff (arr1, arr2) { //Callback for reduce function
+                          var uniqueValues=[]; //here we save the answer
+                      
+                          for(var i = 0; i < arr1.length; i++) {
+                            if(arr2.indexOf(arr1[i]) == -1 && uniqueValues.indexOf(arr1[i]) == -1) {
+                              uniqueValues.push(arr1[i]);
+                            }
+                          }
+                      
+                          for(var i = 0; i < arr2.length; i++) {
+                            if(arr1.indexOf(arr2[i]) == -1 && uniqueValues.indexOf(arr2[i]) == -1) {
+                              uniqueValues.push(arr2[i]);
+                            }
+                          }
+                          return uniqueValues;
+                        }
+                      return args.reduce(symDiff)
+                      
+                      }
+                      
+                      sym([1, 2, 3], [5, 2, 1, 4]);
+                </code>
             </article>
         </main>
     </body>
