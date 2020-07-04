@@ -110,5 +110,6 @@ main i {
         flex-wrap: wrap;
         justify-content: space-evenly;
         border: none;
+        height: 100px;
     }
 }
