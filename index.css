@@ -31,9 +31,9 @@ div div {
 }
 
 #header {
-    grid-area: "header";
+    grid-area: header;
 }
 
 #footer {
-    grid-area: "footer";
+    grid-area: footer;
 }
