@@ -76,7 +76,8 @@ span {
 
 #head img {
     float: center;
-    height: 80%;
+    height: 100px;
+    width: 100px;
 }
 #footer {
     grid-area: footer;
