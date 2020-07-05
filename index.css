@@ -1,5 +1,7 @@
 body {
     background-color: indigo;
+    padding: 0;
+    margin: 0;
 }
 .container {
     display: grid;
