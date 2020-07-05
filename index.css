@@ -22,8 +22,8 @@ body {
     grid-template-areas: 
     "head head head head head head"
     "icons icons icons icons icons icons"
-    "K L M N O AC"
-    "P Q R S T AD"
+    "K K K K K K"
+    "K K K K K K"
     "U V W X Y AE"
     "AF AG AH AI AJ AK"
     "footer footer footer footer footer footer";
@@ -60,6 +60,10 @@ body {
     justify-content: space-around;
     font-size: 20px;
     font-weight: bold;
+}
+
+#about-me {
+    grid-area: K;
 }
 
 /*Mobile version settings*/
