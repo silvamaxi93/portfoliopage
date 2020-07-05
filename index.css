@@ -5,6 +5,10 @@ body {
     height: 100%;
 }
 
+a {
+    text-decoration:none;
+}
+
 .h1 {
     margin-left: 3%;
     font-family: 'Courier Prime', monospace;
@@ -12,8 +16,11 @@ body {
     color: whitesmoke;
 }
 
-h2 {
+.h2 {
     float: right;
+}
+
+h2 {
     margin-right: 3%;
     color: whitesmoke;
 }
@@ -55,10 +62,6 @@ span {
     flex: 1 0 auto;
 }
 
-a {
-    text-decoration:none;
-}
-
 #head {
     grid-area: head;
     background-color: black;
@@ -66,6 +69,7 @@ a {
 
 #head i {
     color: white;
+    font-size: 30px;
 }
 
 #footer {
