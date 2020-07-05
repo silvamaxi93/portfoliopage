@@ -106,6 +106,9 @@ main i {
 }
 
 @media only screen and (max-width: 815px) {
+    body {
+        text-align: center;
+    }
     footer {
         flex-wrap: wrap;
         justify-content: space-evenly;
