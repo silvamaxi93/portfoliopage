@@ -64,6 +64,10 @@ a {
     background-color: black;
 }
 
+#head i {
+    color: white;
+}
+
 #footer {
     grid-area: footer;
 }
