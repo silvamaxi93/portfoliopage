@@ -3,24 +3,47 @@ body {
     height: 100%;
 }
 
+.center {
+    text-align: center;
+}
+
+#back-element {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    margin-top: -3%;
+    margin-left: 0;
+    font-weight: bold;
+}
+
+#back-element a {
+    margin-top: 3%;
+    margin-left: 3%;
+}
+
+#back-element a:hover {
+    cursor: pointer;
+    color: green;
+}
+
 main {
     margin: 0;
 }
+
 h1 {
+    margin-top: 3%;
     text-align: center;
     font-family: 'Noto Sans JP', sans-serif;
 }
 
-header a {
+.header-link{
     text-decoration: none;
     color: black;
     font-size: 1.5em;
 }
-header a p {
-    text-align: center;
-}
 
-a:hover {
+.header-link:hover {
     color: rgb(7, 155, 214);
 }
 
@@ -80,4 +103,34 @@ footer i:hover {
 main i {
     margin-left: 4%;
     font-size: 40px;
+}
+
+@media only screen and (max-width: 815px) {
+    footer {
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        border: none;
+        height: 100px;
+        border-top: 3px solid black; 
+    }
+
+    footer a {
+        margin-left: 3%;
+    }
+
+    main {
+        overflow-x: none;
+    }
+
+    #back-element {
+        width: 100%;
+        margin-top: -20%;
+        position: absolute;
+        border-bottom: 3px solid rgb(39, 20, 20);
+        margin-bottom: 2%;
+    }
+
+    h1 {
+        margin-top: 22%;
+    }
 }
