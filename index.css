@@ -46,4 +46,6 @@ body {
     grid-area: icons;
     display: flex;
     align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: space-around;
 }
