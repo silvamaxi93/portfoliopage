@@ -23,7 +23,6 @@ h2 {
     width: 100%;
     height: 97.5vh;
     margin: 0;
-    padding: 0.5em;
     background: linear-gradient(#2f2519,#4a3f35);
     grid-gap: 0.5em;
     grid-template-areas: 
