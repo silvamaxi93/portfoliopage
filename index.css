@@ -40,4 +40,6 @@ div div {
 
 #icons {
     grid-area: icons;
+    display: flex;
+    align-items: center;
 }
