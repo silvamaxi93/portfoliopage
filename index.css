@@ -35,6 +35,10 @@ body {
     width: 50%;
 }
 
+.langauge-icons img {
+    border-left: 5%;
+}
+
 #head {
     grid-area: head;
 }
