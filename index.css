@@ -22,9 +22,6 @@ header {
 #nav-list {
     color: white;
     font-weight: bold;
-
-}
-
-nav-bar ul li {
     display: inline;
+    list-style-type: none;
 }
