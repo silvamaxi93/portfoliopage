@@ -40,8 +40,8 @@ h2 {
     "icons icons icons icons icons icons"
     "K K K K K K"
     "K K K K K K"
-    "U V W X Y AE"
-    "AF AG AH AI AJ AK"
+    "B B C C Y Y"
+    "B B C C Y Y"
     "footer footer footer footer footer footer";
 }
 
@@ -98,6 +98,18 @@ span {
 
 #about-me {
     grid-area: K;
+}
+
+#code-center {
+    grid-area: B;
+}
+
+#proyects {
+    grid-area: C;
+}
+
+#my-certifications {
+    grid-area: Y;
 }
 
 /*Mobile version settings*/
