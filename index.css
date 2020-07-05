@@ -57,7 +57,7 @@ body {
     font-weight: bold;
 }
 
-
+/*Mobile version settings*/
 @media only screen and (max-width: 815px) {
     #icons-area p {
         margin-left: 2%;
