@@ -8,12 +8,12 @@ body {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
     width: 100%;
-    height: auto;
+    height: inherit;
     margin: 0;
     padding: 0;
     background-color: black;
     grid-gap: 1em;
-    border: 3px dashed white;
+    border: 1em dashed white;
     grid-template-areas: 
     "A B"
     "C D";
