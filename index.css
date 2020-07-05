@@ -79,6 +79,7 @@ span {
     float: center;
     height: 70px;
     width: 70px;
+    margin-left: 1em;
 }
 
 #footer {
