@@ -4,6 +4,11 @@ body {
     margin: 0;
     height: 100%;
 }
+
+h1 {
+    margin: auto;
+}
+
 .container {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
