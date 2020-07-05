@@ -38,7 +38,7 @@ div div {
     grid-area: footer;
 }
 
-#icons {
+#icons-area {
     grid-area: icons;
     display: flex;
     align-items: center;
