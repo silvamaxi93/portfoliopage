@@ -1,4 +1,4 @@
-body {
+.container {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: repeat(12, 1fr);
@@ -6,7 +6,6 @@ body {
     height: 100%;
     margin: 0;
     padding: 0;
-    border: 4px dashed white;
     background-color: black;
     overflow-x: hidden;
     grid-gap: 2px;
