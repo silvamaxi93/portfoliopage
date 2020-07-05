@@ -74,6 +74,10 @@ span {
     margin: auto;
 }
 
+#head img {
+    float: center;
+    height: 80%;
+}
 #footer {
     grid-area: footer;
 }
