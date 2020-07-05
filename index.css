@@ -14,6 +14,9 @@ body {
     background-color: black;
     grid-gap: 1em;
     border: 3px dashed white;
+    grid-template-areas: 
+    "A B"
+    "C D";
 }
 
 div div {
