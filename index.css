@@ -55,6 +55,10 @@ span {
     flex: 1 0 auto;
 }
 
+a {
+    text-decoration-style: none;
+}
+
 #head {
     grid-area: head;
     background-color: black;
