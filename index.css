@@ -13,7 +13,6 @@ body {
     padding: 0;
     background-color: black;
     grid-gap: 1em;
-    border: 1em dashed white;
     grid-template-areas: 
     "A B"
     "C D";
