@@ -12,7 +12,7 @@ a {
 .h1 {
     margin-left: 3%;
     font-family: 'Courier Prime', monospace;
-    float: left;
+    float: center;
     color: whitesmoke;
 }
 
@@ -75,11 +75,10 @@ span {
 }
 
 #head img {
-    position: absolute;
-    float: center;
+    float: left;
     height: 70px;
     width: 70px;
-    margin-left: 1em;
+    margin: auto;
 }
 
 #footer {
