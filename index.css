@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    border: 2px dashed white;
 }
 
 header {
@@ -21,7 +22,7 @@ header {
 #nav-list {
     color: white;
     font-weight: bold;
-    
+
 }
 
 nav-bar ul li {
