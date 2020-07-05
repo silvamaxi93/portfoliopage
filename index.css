@@ -52,12 +52,7 @@ body {
     display: flex;
     align-items: center;
     font-family: 'Montserrat', sans-serif;
-    justify-content: flex-end;
+    justify-content: space-around;
     font-size: 20px;
     font-weight: bold;
-}
-
-#icons-area p {
-    float: left;
-    margin-left: 5%;
 }
