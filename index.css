@@ -1,6 +1,10 @@
 body {
     margin: 0;
-    display: flex;
+
+}
+
+header {
+    margin: 0;
 }
 
 #nav-bar {
