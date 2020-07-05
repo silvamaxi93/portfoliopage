@@ -56,3 +56,10 @@ body {
     font-size: 20px;
     font-weight: bold;
 }
+
+
+@media only screen and (max-width: 815px) {
+    #icons-area p {
+        margin-left: 2%;
+    }
+}
