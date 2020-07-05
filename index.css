@@ -13,7 +13,7 @@ body {
     margin: 0;
     padding: 0;
     background: linear-gradient(#086972,#87dfd6);
-    grid-gap: 1em;
+    grid-gap: 0.5em;
     grid-template-areas: 
     "A B C D E AA"
     "F G H I J AB"
