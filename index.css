@@ -10,6 +10,7 @@ a {
 }
 
 .h1 {
+    position: absolute;
     margin-left: 3%;
     font-family: 'Courier Prime', monospace;
     float: center;
@@ -18,7 +19,7 @@ a {
 
 .h2 {
     float: right;
-    width: 30%;
+    width: 40%;
     display: flex;
 }
 
