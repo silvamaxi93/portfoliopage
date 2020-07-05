@@ -15,8 +15,11 @@ body {
     background-color: black;
     grid-gap: 1em;
     grid-template-areas: 
-    "A B"
-    "C D";
+    "A B C D E"
+    "F G H I J"
+    "K L M N O"
+    "P Q R S T"
+    "U V W X Y";
 }
 
 div div {
