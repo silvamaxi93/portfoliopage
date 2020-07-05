@@ -30,6 +30,10 @@ body {
     padding: 1em;
 }
 
+.langauge-icons {
+    border: none;
+}
+
 #head {
     grid-area: head;
 }
