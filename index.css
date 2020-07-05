@@ -64,7 +64,6 @@ span {
 }
 
 #head {
-    display: flex;
     grid-area: head;
     background-color: black;
 }
@@ -76,10 +75,12 @@ span {
 }
 
 #head img {
+    position: absolute;
     float: center;
     height: 100px;
     width: 100px;
 }
+
 #footer {
     grid-area: footer;
 }
