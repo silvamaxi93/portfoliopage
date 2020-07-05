@@ -64,6 +64,7 @@ span {
 }
 
 #head {
+    display: flex;
     grid-area: head;
     background-color: black;
 }
