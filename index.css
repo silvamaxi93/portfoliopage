@@ -16,7 +16,7 @@ body {
     grid-gap: 0.5em;
     grid-template-areas: 
     "head head head head head head"
-    "F G H I J AB"
+    "icons icons icons icons icons icons"
     "K L M N O AC"
     "P Q R S T AD"
     "U V W X Y AE"
@@ -30,10 +30,14 @@ div div {
     padding: 1em;
 }
 
-#header {
+#head {
     grid-area: head;
 }
 
 #footer {
     grid-area: footer;
+}
+
+#icons {
+    grid-area: icons;
 }
