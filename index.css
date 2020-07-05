@@ -15,17 +15,25 @@ body {
     background: linear-gradient(#086972,#87dfd6);
     grid-gap: 0.5em;
     grid-template-areas: 
-    "A A A A A A"
+    "head head head head head head"
     "F G H I J AB"
     "K L M N O AC"
     "P Q R S T AD"
     "U V W X Y AE"
     "AF AG AH AI AJ AK"
-    "AQ AQ AQ AQ AQ AQ";
+    "footer footer footer footer footer footer";
 }
 
 div div {
     background-color: white;
     border: 1px solid black;
     padding: 1em;
+}
+
+#header {
+    grid-area: "header";
+}
+
+#footer {
+    grid-area: "footer";
 }
