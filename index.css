@@ -6,8 +6,7 @@ body {
 }
 
 .h1 {
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
 }
 
 .container {
@@ -15,7 +14,7 @@ body {
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: repeat(7, 1fr);
     width: 100%;
-    height: 98vh;
+    height: 97vh;
     margin: 0;
     padding: 0.5em;
     background: linear-gradient(#086972,#87dfd6);
