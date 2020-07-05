@@ -19,6 +19,7 @@ a {
 .h2 {
     float: right;
     width: 40%;
+    display: flex;
 }
 
 h2 {
