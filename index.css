@@ -6,8 +6,8 @@ body {
 }
 .container {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
     width: 100%;
     height: inherit;
     margin: 0;
