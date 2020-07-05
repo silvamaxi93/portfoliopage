@@ -37,6 +37,7 @@ body {
 
 .language-icons img {
     border-left: 10%;
+    flex: 1 0 auto;
 }
 
 #head {
