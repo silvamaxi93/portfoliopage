@@ -27,7 +27,7 @@ body {
 .div-div {
     background-color: white;
     border: 1px solid black;
-    padding: 1em;
+    padding: 0.5em;
 }
 
 .langauge-icons {
@@ -53,6 +53,6 @@ body {
     align-items: center;
     font-family: 'Montserrat', sans-serif;
     justify-content: space-around;
-    font-size: 40px;
+    font-size: 20px;
     font-weight: bold;
 }
