@@ -5,7 +5,7 @@ body {
     padding: 0;
     border: 4px dashed white;
     background-color: black;
-    overflow-x: none;
+    overflow-x: hidden;
 }
 
 #h1 {
