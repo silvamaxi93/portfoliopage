@@ -95,6 +95,7 @@ span {
     justify-content: space-around;
     font-size: 30px;
     font-weight: bold;
+    background: linear-gradient(rgb(30, 16, 151),rgb(7, 248, 248));
 }
 
 #about-me {
