@@ -104,13 +104,10 @@ span {
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-    display: flex;
     line-height: normal;
     font-size: 1em;
     padding: 0;
     width: 100%;
-    align-items: center;
-    justify-items: center;
 }
 
 #about-me div h3 {
