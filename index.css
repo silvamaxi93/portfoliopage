@@ -107,6 +107,8 @@ span {
     opacity: 0.3;
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
 }
 
 #about-me h3 {
