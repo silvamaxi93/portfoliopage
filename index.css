@@ -139,4 +139,8 @@ span {
     #my-certifications {
         height: 80%;
     }
+
+    #footer {
+        margin-top: -20%;
+    }
 }
