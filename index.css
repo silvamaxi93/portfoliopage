@@ -10,7 +10,6 @@ a {
 }
 
 .h1 {
-    position: absolute;
     text-align: center;
     font-family: 'Courier Prime', monospace;
     color: whitesmoke;
@@ -118,5 +117,9 @@ span {
 @media only screen and (max-width: 815px) {
     #icons-area p {
         margin-left: 2%;
+    }
+
+    #head {
+        flex-direction: column;
     }
 }
