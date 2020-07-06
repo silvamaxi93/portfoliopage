@@ -110,6 +110,7 @@ span {
     padding: 0;
     width: 100%;
     align-items: center;
+    justify-items: center;
 }
 
 #about-me div h3 {
