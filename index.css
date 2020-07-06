@@ -100,10 +100,7 @@ span {
 
 #about-me {
     grid-area: K;
-    background-image: url(final2.png);
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: black;
     line-height: normal;
     font-size: 1em;
     padding: 0;
@@ -115,6 +112,9 @@ span {
     font-family: 'Courier Prime', monospace;
     color: rgb(250, 15, 15);
     font-size: 30px;
+    animation-name: header;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
 }
 
 #about-me div p {
@@ -142,6 +142,12 @@ span {
 #my-certifications {
     grid-area: Y;
 }
+
+
+@keyframes header {
+
+}
+
 
 /*Mobile version settings*/
 @media only screen and (max-width: 815px) {
