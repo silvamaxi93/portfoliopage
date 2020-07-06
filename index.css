@@ -105,6 +105,7 @@ span {
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
+    opacity: 0.7;
 }
 
 #code-center {
