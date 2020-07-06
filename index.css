@@ -100,7 +100,7 @@ span {
 
 #about-me {
     grid-area: K;
-    background-image: linear-gradient(to right top, #992b6a, #8b3377, #7a3b81, #664288, #4f488c, #3f5598, #2961a1, #006da7, #0084b5, #0099bc, #00aebb, #04c2b6);;
+    background-image: linear-gradient(to right top, #161515, #1f1c1d, #282225, #2f2a30, #34323b, #3c374a, #443c5a, #4d4169, #723a71, #9b2866, #bb0948, #c91919);
 }
 
 #code-center {
