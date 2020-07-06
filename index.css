@@ -123,4 +123,8 @@ span {
     #head {
         flex-direction: column;
     }
+    
+    .container {
+        height: 100%;
+    }
 }
