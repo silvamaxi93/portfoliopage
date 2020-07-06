@@ -122,6 +122,9 @@ span {
     color: whitesmoke;
 }
 
+#about-me div {
+    text-align: center;
+}
 .pp {
     margin-bottom: 1%;
 }
