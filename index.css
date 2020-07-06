@@ -105,8 +105,8 @@ span {
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
-    justify-content: space-around;
     flex-direction: column;
+    line-height: normal;
 }
 
 #about-me h3 {
