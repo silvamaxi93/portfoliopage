@@ -65,6 +65,7 @@ span {
 
 #head {
     grid-area: head;
+    display: flex;
     width: 100%;
     background-color: black;
     align-items: center;
