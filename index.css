@@ -110,6 +110,7 @@ span {
     padding: 0;
     width: 100%;
     align-items: center;
+    opacity: 0.3;
 }
 
 #about-me div h3 {
@@ -120,12 +121,14 @@ span {
     text-align: center;
     margin-right: auto;
     margin-left: auto;
+    position: relative;
 }
 
 #about-me div p {
     font-family: 'Courier Prime', monospace;
     color: whitesmoke;
     text-align: center;
+    position: relative;
 }
 
 .pp {
