@@ -111,10 +111,11 @@ span {
 }
 
 #about-me div h3 {
-    margin-top: 2%;
+    margin: 0.5%;
     font-family: 'Courier Prime', monospace;
     color: whitesmoke;
     font-size: 20px;
+    text-align: center;
 }
 
 #about-me div p {
