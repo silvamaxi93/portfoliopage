@@ -107,6 +107,7 @@ span {
     display: flex;
     line-height: normal;
     font-size: 1em;
+    padding: 0;
 }
 
 #about-me div h3 {
@@ -114,8 +115,6 @@ span {
     font-family: 'Courier Prime', monospace;
     color: whitesmoke;
     font-size: 20px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 #about-me div p {
