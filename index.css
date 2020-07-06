@@ -106,24 +106,27 @@ span {
     background-repeat: no-repeat;
     display: flex;
     justify-content: space-around;
-    align-items: center;
     flex-direction: column;
-    padding: 0.5em;
 }
 
 #about-me h3 {
+    margin-top: 2%;
     font-family: 'Courier Prime', monospace;
-    color: white;
+    color: whitesmoke;
+    font-size: 20px;
     margin-left: auto;
     margin-right: auto;
-    font-size: 20px;
 }
 
 #about-me p {
     font-family: 'Courier Prime', monospace;
-    color: white;
+    color: whitesmoke;
     margin-left: auto;
     margin-right: auto;
+}
+
+.pp {
+    margin-bottom: 2%;
 }
 
 #code-center {
