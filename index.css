@@ -109,6 +109,7 @@ span {
     font-size: 1em;
     padding: 0;
     width: 100%;
+    align-items: center;
 }
 
 #about-me div h3 {
