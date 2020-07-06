@@ -111,11 +111,11 @@ span {
 
 #about-me div {
     font-family: 'Courier Prime', monospace;
-    color: whitesmoke;
+    color: white;
     margin-left: auto;
     margin-right: auto;
     opacity: 1;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 #code-center {
