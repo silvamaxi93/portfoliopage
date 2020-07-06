@@ -127,4 +127,16 @@ span {
     .container {
         height: 100%;
     }
+
+    #code-center {
+        height: 80%;
+    }
+
+    #proyects {
+        height: 80%;
+    }
+
+    #my-certifications {
+        height: 80%;
+    }
 }
