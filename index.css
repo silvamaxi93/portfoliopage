@@ -118,16 +118,11 @@ span {
     font-family: 'Courier Prime', monospace;
     color: whitesmoke;
     font-size: 20px;
-    text-align: center;
-    float: center;
-    position: relative;
 }
 
 #about-me div p {
     font-family: 'Courier Prime', monospace;
     color: whitesmoke;
-    float: center;
-    position: relative;
 }
 
 .pp {
