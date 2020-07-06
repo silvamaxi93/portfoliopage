@@ -100,7 +100,7 @@ span {
 
 #about-me {
     grid-area: K;
-    background-image: url(https://i.pinimg.com/originals/62/dd/dd/62dddd03bab522af0b94fa33fa1fa45d.jpg);
+    background-image: url(/final.png);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
