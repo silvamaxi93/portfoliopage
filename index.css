@@ -119,16 +119,15 @@ span {
     color: whitesmoke;
     font-size: 20px;
     text-align: center;
-    margin-right: auto;
-    margin-left: auto;
-    position: relative;
+    float: center;
+    position: absolute;
 }
 
 #about-me div p {
     font-family: 'Courier Prime', monospace;
     color: whitesmoke;
-    text-align: center;
-    position: relative;
+    float: center;
+    position: absolute;
 }
 
 .pp {
