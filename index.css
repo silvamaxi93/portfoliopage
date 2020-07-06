@@ -105,6 +105,13 @@ span {
     background-size: cover;
     background-repeat: no-repeat;
     opacity: 0.3;
+    display: flex;
+    justify-content: space-around;
+}
+
+#about-me div {
+    font-family: 'Courier Prime', monospace;
+    color: whitesmoke;
 }
 
 #code-center {
