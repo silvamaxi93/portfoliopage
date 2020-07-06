@@ -107,7 +107,7 @@ span {
     display: flex;
     flex-direction: column;
     line-height: normal;
-    font-size: 1cm;
+    font-size: 1em;
 }
 
 #about-me div h3 {
