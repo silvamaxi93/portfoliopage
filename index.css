@@ -108,21 +108,23 @@ span {
     line-height: normal;
     font-size: 1em;
     padding: 0;
+    width: 100%;
 }
 
 #about-me div h3 {
-    margin: 0.5%;
+    margin-top: 0.5%;
     font-family: 'Courier Prime', monospace;
     color: whitesmoke;
     font-size: 20px;
     text-align: center;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 #about-me div p {
     font-family: 'Courier Prime', monospace;
     color: whitesmoke;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
 }
 
 .pp {
