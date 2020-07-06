@@ -120,14 +120,14 @@ span {
     font-size: 20px;
     text-align: center;
     float: center;
-    position: absolute;
+    position: relative;
 }
 
 #about-me div p {
     font-family: 'Courier Prime', monospace;
     color: whitesmoke;
     float: center;
-    position: absolute;
+    position: relative;
 }
 
 .pp {
