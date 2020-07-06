@@ -67,6 +67,8 @@ span {
 #head {
     grid-area: head;
     background-color: black;
+    align-items: center;
+    justify-content: space-between;
 }
 
 #head i {
