@@ -100,11 +100,7 @@ span {
 
 #about-me {
     grid-area: K;
-    background-image: url(https://images.unsplash.com/photo-1575270043808-0ad747a2da06?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
-    background-position: center center;
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
+    background-image: linear-gradient(to right top, #992b6a, #8b3377, #7a3b81, #664288, #4f488c, #3f5598, #2961a1, #006da7, #0084b5, #0099bc, #00aebb, #04c2b6);;
 }
 
 #code-center {
