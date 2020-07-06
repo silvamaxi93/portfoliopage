@@ -114,6 +114,8 @@ span {
     color: whitesmoke;
     margin-left: auto;
     margin-right: auto;
+    opacity: 1;
+    font-size: 40px;
 }
 
 #code-center {
