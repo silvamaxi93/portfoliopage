@@ -104,7 +104,7 @@ span {
     line-height: normal;
     font-size: 1em;
     padding: 0;
-    width: 99.7%;
+    width: 99.8%;
 }
 
 #about-me div h3 {
@@ -114,7 +114,7 @@ span {
     font-size: 30px;
 }
 
-#about-me div div {
+.about-me-header {
     background-color: rgb(13, 144, 219);
 }
 
