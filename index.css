@@ -111,6 +111,7 @@ span {
     font-family: 'Courier Prime', monospace;
     color: rgb(7, 93, 163);
     font-size: 30px;
+    margin-top: 0;
 }
 
 .about-me-header {
