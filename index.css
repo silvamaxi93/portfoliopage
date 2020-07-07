@@ -112,12 +112,13 @@ span {
     font-family: 'Courier Prime', monospace;
     color: rgb(7, 93, 163);
     font-size: 30px;
+    vertical-align: center;
 }
 
 .about-me-header {
     background-color: rgb(13, 144, 219);
-    border: 1.5px solid  rgba(3, 102, 160, 0.938);
-    border-radius: 25%;
+    border: 1px solid  rgba(3, 83, 129, 0.938);
+    border-radius: 50%;
     height: 35px;
     width: 50%;
 }
@@ -126,6 +127,8 @@ span {
     font-family: 'Courier Prime', monospace;
     color: rgb(14, 245, 45);
     font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #about-me div {
