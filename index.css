@@ -206,6 +206,10 @@ span {
         padding: 0;
     }
 
+    .about-me-header {
+        width: 100%;
+    }
+
     #proyects {
         height: 80%;
     }
