@@ -112,9 +112,9 @@ span {
     font-family: 'Courier Prime', monospace;
     color: rgb(7, 93, 163);
     font-size: 30px;
-    animation-name: header;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
+}
+
+#about-me div div {
     background-color: rgb(13, 144, 219);
 }
 
