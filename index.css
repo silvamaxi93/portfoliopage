@@ -121,6 +121,7 @@ span {
     border-radius: 40%;
     height: 35px;
     width: 40%;
+    text-align: center;
 }
 
 #about-me div p {
