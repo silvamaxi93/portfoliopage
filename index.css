@@ -109,13 +109,13 @@ span {
 
 #about-me div h3 {
     font-family: 'Courier Prime', monospace;
-    color: rgb(7, 93, 163);
+    color: rgb(4, 33, 56);
     font-size: 30px;
     margin-top: 0.5%;
 }
 
 .about-me-header {
-    background-color: rgb(40, 169, 243);
+    background-color: rgb(28, 90, 126);
     border: 1px solid  rgb(9, 77, 116);
     border-radius: 2em;
     height: 35px;
