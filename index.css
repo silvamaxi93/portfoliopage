@@ -138,9 +138,11 @@ span {
 }
 
 #about-me p i {
-    animation-name: arrow;
+    position: relative;
+    animation-name: arrow-down;
     animation-duration: 1s;
     animation-iteration-count: infinite;
+    animation-timing-function: linear;
 }
 
 .pp {
@@ -160,7 +162,7 @@ span {
 }
 
 
-@keyframes arrow {
+@keyframes arrow-down {
     0% {
         transform: rotateY(10px);
     }
