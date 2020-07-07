@@ -147,23 +147,6 @@ span {
     position: hidden;
 }
 
-#about-me div div img {
-    width: 80px;
-    height: 80px;
-    border-radius: 1em;
-    position: absolute;
-}
-
-.img1 {
-    margin-top: 0;
-    margin-left: 0;
-}
-
-.img2 {
-    margin-top: 0;
-    margin-right: 0;
-}
-
 .pp {
     margin-bottom: 1%;
 }
