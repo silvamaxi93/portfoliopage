@@ -137,6 +137,10 @@ span {
     text-align: center;
 }
 
+#about-me div p {
+    color: rgb(5, 177, 168);
+}
+
 #about-me p i {
     color: rgb(44, 42, 42);
     position: relative;
