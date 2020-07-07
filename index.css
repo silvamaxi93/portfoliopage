@@ -138,7 +138,7 @@ span {
 }
 
 #about-me p i {
-    color: rgb(37, 24, 228);
+    color: rgb(44, 42, 42);
     position: relative;
     animation-name: arrow-down;
     animation-duration: 2s;
