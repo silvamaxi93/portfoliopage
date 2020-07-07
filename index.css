@@ -100,7 +100,7 @@ span {
 
 #about-me {
     grid-area: K;
-    background-color: black;
+    background-color: rgb(31, 30, 30);
     line-height: normal;
     font-size: 1em;
     padding: 0;
