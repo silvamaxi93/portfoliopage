@@ -127,7 +127,7 @@ span {
 
 #about-me div p {
     font-family: 'Courier Prime', monospace;
-    color: rgb(14, 245, 45);
+    color: rgb(5, 177, 168);
     font-size: 25px;
     margin-left: auto;
     margin-right: auto;
@@ -135,10 +135,6 @@ span {
 
 #about-me div {
     text-align: center;
-}
-
-#about-me div p {
-    color: rgb(5, 177, 168);
 }
 
 #about-me p i {
