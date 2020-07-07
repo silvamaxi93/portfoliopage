@@ -108,11 +108,9 @@ span {
 }
 
 #about-me div h3 {
-    margin-top: 1%;
     font-family: 'Courier Prime', monospace;
     color: rgb(7, 93, 163);
     font-size: 30px;
-    vertical-align: center;
 }
 
 .about-me-header {
