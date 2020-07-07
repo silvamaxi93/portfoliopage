@@ -121,7 +121,7 @@ span {
     border-radius: 2em;
     height: 35px;
     width: 40%;
-    position: absolute;
+    display: flex;
     text-align: center;
 }
 
