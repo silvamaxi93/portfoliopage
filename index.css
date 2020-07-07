@@ -117,7 +117,9 @@ span {
 .about-me-header {
     background-color: rgb(13, 144, 219);
     border: 1.5px solid  rgba(3, 102, 160, 0.938);
-    border-radius: 5%;
+    border-radius: 25%;
+    height: 35px;
+    width: 50%;
 }
 
 #about-me div p {
