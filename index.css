@@ -154,6 +154,16 @@ span {
     position: absolute;
 }
 
+.img1 {
+    margin-top: 0;
+    margin-left: 0;
+}
+
+.img1 {
+    margin-top: 0;
+    margin-right: 0;
+}
+
 .pp {
     margin-bottom: 1%;
 }
