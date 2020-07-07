@@ -122,7 +122,9 @@ span {
     height: 35px;
     width: 40%;
     display: flex;
+    justify-content: space-around;
     text-align: center;
+    margin: auto;
 }
 
 #about-me div p {
