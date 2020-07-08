@@ -189,6 +189,11 @@ h2 {
     grid-area: Y;
     border-radius: 1em;
     border: 3px solid rgb(86, 83, 253);
+    background-color: rgb(3, 164, 192);
+    background-image: url(undraw_my_personal_files_8krs.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 
