@@ -156,6 +156,12 @@ span {
     background-position: right;
 }
 
+.code-center-title {
+    font-family: 'Courier Prime', monospace;
+    vertical-align: center;
+    margin-left: 10%
+}
+
 #proyects {
     grid-area: C;
     border-radius: 1em;
