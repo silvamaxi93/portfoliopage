@@ -133,6 +133,10 @@ span {
     margin-right: auto;
 }
 
+.bottom {
+    margin-bottom: 1%;
+}
+
 #about-me div {
     text-align: center;
 }
