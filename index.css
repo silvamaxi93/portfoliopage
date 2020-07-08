@@ -163,6 +163,11 @@ span {
     font-size: 35px;
 }
 
+.code-center-title:hover {
+    border: 2px solid purple;
+    background-color: rgb(1, 90, 105);
+}
+
 #proyects {
     grid-area: C;
     border-radius: 1em;
