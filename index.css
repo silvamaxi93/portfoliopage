@@ -170,7 +170,7 @@ h2 {
 }
 
 .code-center-title:hover {
-    color: steelblue;
+    color: rgb(39, 223, 121);
     text-decoration: underline;
     cursor: pointer;
 }
