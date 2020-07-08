@@ -168,8 +168,9 @@ h2 {
 }
 
 .code-center-title:hover {
-    border: 2px solid purple;
+    border: 2px solid black;
     background-color: rgb(1, 90, 105);
+    border-radius: 2em;
 }
 
 #proyects {
