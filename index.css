@@ -159,8 +159,8 @@ span {
 .code-center-title {
     font-family: 'Courier Prime', monospace;
     vertical-align: center;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-top: 10%;
+    margin-left: 10%;
     font-size: 40px;
 }
 
