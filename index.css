@@ -179,14 +179,14 @@ h2 {
     margin-left: 22%;
 }
 
-#proyects {
-    grid-area: C;
+#contact-me {
+    grid-area: Y;
     border-radius: 1em;
     border: 3px solid rgb(86, 83, 253);
 }
 
 #my-certifications {
-    grid-area: Y;
+    grid-area: C;
     border-radius: 1em;
     border: 3px solid rgb(86, 83, 253);
     background-color: rgb(3, 164, 192);
