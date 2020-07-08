@@ -157,12 +157,13 @@ h2 {
 }
 
 .code-center-title {
+    margin-left: 10%;
     display: flex;
     justify-content: space-around;
     flex-direction: column;
     font-family: 'Courier Prime', monospace;
     vertical-align: center;
-    font-size: 35px;
+    font-size: 30px;
     width: 50%;
     color: black;
 }
