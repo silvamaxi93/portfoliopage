@@ -147,6 +147,7 @@ span {
 
 #code-center {
     grid-area: B;
+    border-radius: 0.5em;
     background-color: rgb(3, 164, 192);
     background-image: url(undraw_code_review_l1q9.png);
     background-size: contain;
@@ -156,10 +157,12 @@ span {
 
 #proyects {
     grid-area: C;
+    border-radius: 0.5em;
 }
 
 #my-certifications {
     grid-area: Y;
+    border-radius: 0.5em;
 }
 
 
