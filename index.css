@@ -44,7 +44,7 @@ h2 {
     "footer footer footer footer footer footer";
 }
 
-span {
+#head span {
     color:#00AAE4;
 }
 .div-div {
@@ -162,7 +162,6 @@ span {
     flex-direction: column;
     font-family: 'Courier Prime', monospace;
     vertical-align: center;
-    margin-top: 10%;
     font-size: 35px;
     width: 50%;
     color: black;
