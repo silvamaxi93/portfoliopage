@@ -157,6 +157,9 @@ span {
 }
 
 .code-center-title {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
     font-family: 'Courier Prime', monospace;
     vertical-align: center;
     margin-top: 10%;
