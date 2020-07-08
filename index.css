@@ -147,6 +147,8 @@ span {
 
 #code-center {
     grid-area: B;
+    background-image: url(undraw_code_review_l1q9.png);
+    background-size: contain;
 }
 
 #proyects {
