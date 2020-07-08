@@ -196,7 +196,7 @@ span {
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: left;
-        padding: 0;
+        padding: 0.5em;
         height: 50%;
     }
 
