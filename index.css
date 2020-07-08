@@ -141,16 +141,6 @@ span {
     text-align: center;
 }
 
-#about-me p i {
-    color: rgb(44, 42, 42);
-    position: relative;
-    animation-name: arrow-down;
-    animation-duration: 2s;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
-    position: hidden;
-}
-
 .pp {
     margin-bottom: 1%;
 }
