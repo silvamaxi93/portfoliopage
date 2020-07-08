@@ -179,12 +179,6 @@ h2 {
     margin-left: 22%;
 }
 
-#contact-me {
-    grid-area: Y;
-    border-radius: 1em;
-    border: 3px solid rgb(86, 83, 253);
-}
-
 #my-certifications {
     grid-area: C;
     border-radius: 1em;
@@ -196,6 +190,11 @@ h2 {
     background-position: right;
 }
 
+#contact-me {
+    grid-area: Y;
+    border-radius: 1em;
+    border: 3px solid rgb(86, 83, 253);
+}
 
 @keyframes arrow-down {
     0% {
